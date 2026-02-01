@@ -1,4 +1,4 @@
-## 햇살같은 코드로 내일을 밝히는 개발자 장하은입니다! ☀️
+## 코드 한줄로 내일을 밝히는 개발자 장하은입니다! 
 
 <!--
 **naen0k/naen0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
